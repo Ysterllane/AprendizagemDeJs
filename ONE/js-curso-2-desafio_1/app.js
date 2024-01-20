@@ -1,5 +1,5 @@
 let titulo =  document.querySelector ('h1');
-titulo.innerHTML = 'Hora do Desafio:';
+titulo.innerHTML = 'Challenge Time:';
 
 function consoleButton (){
     console.log('O botão foi clicado');
@@ -15,8 +15,8 @@ function promptButton (){
 }
 
 function somaButton (){
-    let n1 = parseInt(prompt('Digite um número: '));
-    let n2 = parseInt(prompt('Digite outro número: '));
+    let n1 = parseFloat(prompt('Digite um número: '));
+    let n2 = parseFloat(prompt('Digite outro número: '));
     let soma = n1 + n2;
     alert('Sua soma é: ' + soma);
 }

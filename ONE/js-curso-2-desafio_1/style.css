@@ -2,6 +2,7 @@ header {
   text-align: center;
   font-size: 30px;
   color: #fda4c6;
+  font-family: 'Satisfy', cursive;
 }
 
 main, html {
@@ -14,12 +15,9 @@ main, html {
   background-color: #000000;
 }
 
-.container {
+.button{
   text-align: center;
-  color: #ffffff;
-}
-
-.button {
+  color: #000000;
   padding: 10px 20px;
   margin: 10px;
   font-size: 24px;
@@ -27,9 +25,18 @@ main, html {
   background-color: #ffffff;
   cursor: pointer;
   border-radius: 5px;
-}
+  font-family: 'Dancing Script', cursive;
+} 
 
 .button:hover {
   background-color: #f0cce7;
+  cursor: pointer;
+  font-weight: bolder;
 }
 
+
+.button:hover {
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  font: 2em 'Dancing Script', cursive;
+}
