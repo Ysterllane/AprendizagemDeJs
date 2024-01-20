@@ -5,3 +5,9 @@
 * Escrever na tela
 * console.log
 * If, else
+* Formas de mostrar variável com texto
+* while, contador ++
+* != (não for igual)
+* && and
+* || or 
+* Math.random ()
