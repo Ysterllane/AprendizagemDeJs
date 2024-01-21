@@ -13,15 +13,15 @@ function exibirTextoNaTela(tag, texto){
 }
 
 exibirTextoNaTela('h1', 'Jogo do Número Secreto' );
-exibirTextoNaTela('p', 'Escolha um número entre 1 e 100:');
+exibirTextoNaTela('p', 'Escolha um número entre 1 e 10:');
 
 //Funçao sem retorno e sem parâmetro
 function verificarChute() {
-    let chute = document.querySelector('input').value;
+    let chute = document.querySelector('input').value; // tipo boleano t/f
     console.log(chute == numeroSecreto);
 }
 
 //Funçao com retorno
 function gerarNumeroAleatorio(){
-    return parseInt(Math.random() * 100 + 1);
+    return parseInt(Math.random() * 10 + 1);
 }
