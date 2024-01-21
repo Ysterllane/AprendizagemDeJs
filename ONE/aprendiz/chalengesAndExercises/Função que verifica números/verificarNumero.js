@@ -1,5 +1,5 @@
 //TERMINAR DPS:
-let numero = parseFloat(prompt('Digite um número para ferificação:'));
+let numero = parseFloat(prompt('Digite um número para verificação:'));
 
 function verificarNumero(numero) {
     if (numero > 0) {
@@ -12,7 +12,7 @@ function verificarNumero(numero) {
 }
 
 
-/*
+
 function verificarNumero() {
     let numero = parseInt(prompt('Digite um número para verificação:'));
 
@@ -23,4 +23,4 @@ function verificarNumero() {
     } else {
         console.log("O número é zero.");
     }
-}*/
+}

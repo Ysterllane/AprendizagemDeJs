@@ -1,4 +1,5 @@
 # FILES iNFO:
 
-* logica-js-projeto-inicial: arquivo da primeira aula de Javascript do ONE
-* Aprendiz: atividades e explicações de como programar em js
+* Aprendiz: explicações de como programar em js e atividades
+* js-curso-2-aula1: arquivo da 2° aula de Javascript do ONE 
+* logica-js-projeto-inicial: arquivo da 1° aula de Javascript do ONE 

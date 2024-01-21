@@ -1,4 +1,6 @@
-# Exercícios HTML e JS:
+# Exercícios HTML e JS no site:
+
+## Site funcionando em outros dispositivos ✅
 
 2) Altere o conteúdo da tag h1 com document.querySelector e atribua o seguinte texto: Hora do Desafio.
 
