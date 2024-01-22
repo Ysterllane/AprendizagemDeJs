@@ -87,13 +87,10 @@ idade = idade - 1;
 idade--;
 ```
 
-A função:
-```js 
-Math.random (); 
-``` 
-em JavaScript gera um número decimal aleatório entre 0 (inclusivo) e 1 (exclusivo) de forma pseudo aleatória. Isso significa que os números gerados podem estar em qualquer lugar entre 0 (inclusive) e quase 1 (exclusivo), com uma precisão de até 16 casas decimais. A função Math.random usa um valor interno inicial que é geralmente baseado no horário atual do sistema, gerando números pseudo aleatórios.
+A função: <code>Math.random ();</code> em JavaScript gera um número decimal aleatório entre 0 (inclusivo) e 1 (exclusivo) de forma pseudo aleatória. Isso significa que os números gerados podem estar em qualquer lugar entre 0 (inclusive) e quase 1 (exclusivo), com uma precisão de até 16 casas decimais. A função Math.random usa um valor interno inicial que é geralmente baseado no horário atual do sistema, gerando números pseudo aleatórios.
 
 Para gerar um número entre 1 e 3, podemos usar o código: 
+
 ```js
 let numeroAleatorio1a3 = parseInt(Math.random() * 3) + 1;
 ```
