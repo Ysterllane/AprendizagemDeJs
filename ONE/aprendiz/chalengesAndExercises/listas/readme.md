@@ -32,3 +32,8 @@ Para saber o elemento da última posição da lista:
 numeros[numeros.length - 1]; // enter
 5 //resposta do console
 ````
+
+## Por que isso funciona?
+Porque o índice começa com o valor zero, se diminuirmos o tamanho da lista em 1, obteremos o último elemento da lista. 
+
+Como tamanho de lista é 3, numeros.length - 1 é como 3 - 1, que é igual a 2 , ou seja, temos o índice 2. Ficou igual ao numeros[2], que também retorna 3.
