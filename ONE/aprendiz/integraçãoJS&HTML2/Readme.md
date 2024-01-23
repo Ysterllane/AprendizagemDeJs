@@ -1,2 +1,2 @@
-# Como controlar o HTML a partir do JS ?
+# Como controlar o HTML a partir do JS?
 
