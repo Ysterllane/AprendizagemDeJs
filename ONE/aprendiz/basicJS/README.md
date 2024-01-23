@@ -1,4 +1,4 @@
-# Codes de Aprendizagem - basicJS
+# BasicJS: 
 ## Sumário:
 * Exibir pop up na tela
 * Declaração de variáveis
@@ -93,4 +93,11 @@ Para gerar um número entre 1 e 3, podemos usar o código:
 
 ```js
 let numeroAleatorio1a3 = parseInt(Math.random() * 3) + 1;
+```
+
+### Para pesquisar : 
+
+```js
+let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa'
+alert(`Isso aí! Você descobriu o número secreto (${numeroSecreto}), com ${tentativas} ${palavraTentativa} <3`);
 ```

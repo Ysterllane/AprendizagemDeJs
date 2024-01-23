@@ -1,19 +1,17 @@
+let listaDeNumerosSorteados = [];
+let numeroSecreto = gerarNumeroAleatorio();
+let tentativas = 1;
+
 /* let titulo = document.querySelector ('h1');
 titulo.innerHTML = 'Jogo do Número Secreto';
 
 let paragrafafo = document.querySelector('p');
 paragrafafo.innerHTML = 'Escolha um número entre 1 e 100';*/
 
-let listaDeNumerosSorteados = [];
-
-let numeroSecreto = gerarNumeroAleatorio();
-let tentativas = 1;
-
 //Funçao com parâmetro
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
-    responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate:1.2});
 }
 
 exibirMensagemInicial();
