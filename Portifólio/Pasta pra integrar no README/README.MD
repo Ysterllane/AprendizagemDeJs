@@ -1,4 +1,4 @@
-* A tag <code>< body ></code> é o corpo do documento onde estão todos os conteúdos visíveis, como: 
+* A tag <code>< body ></code> é o corpo do documento onde estão todos os conteúdos visíveis, como: <br>
 ⚙️ cabeçalhos <br>
 📌 parágrafos <br>
 🖼️ imagens <br>
