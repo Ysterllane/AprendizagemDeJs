@@ -18,5 +18,5 @@
 
 * <code>src</code> vem de <b>source</b>, "fonte" em português = "endereço da imagem". Se os dois estiverem na mesma pasta basta adicionar o nome do arquivo. Ex: <code>src = "html.png"</code> 
 
-* A <b>propiedade</b> <code>alt=""</code> serve para acessibilidade, para pessoas que utilizam leitores de tela. É o nome que fica na imagem quando a mesma não consegue aparecer também. É muito importante dar nomes descritivos às imagens para alcançar essas pessosas <3 Code: <code>, img src = "html.png" alt="Imagem do HTML 5" > </code> 
+* A <b>propiedade</b> <code>alt=""</code> serve para acessibilidade, para pessoas que utilizam leitores de tela. É o nome que fica na imagem quando a mesma não consegue aparecer também. É muito importante dar nomes descritivos às imagens para alcançar essas pessosas <3 Code: <code>< img src = "html.png" alt="Imagem do HTML 5" > </code> 
  
