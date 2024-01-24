@@ -13,6 +13,6 @@
 
 * A tag  <code>< p ></ p ></code> representa um parágrafo, geralme é o texto corrído que vemos nos sites.
 
-* Ainda dentro do <code>< body ></code> adicionamos uma imagem com a tag </code>< img ></code>, esta por sua vez não possui fechamento.
+* Ainda dentro do <code>< body ></code> adicionamos uma imagem com a tag <code>< img ></code>, esta por sua vez não possui fechamento.
 
-* Para exibir uma imagem devemos escrever seu endereço através da <b>propriedade</b> <code>src<code>. As propriedades ficam dentro dos sinais de maior e menor da tag. <code>< img src="" ></code>
+* Para exibir uma imagem devemos escrever seu endereço através da <b>propriedade</b> <code>src</code>. As propriedades ficam dentro dos sinais de maior e menor da tag. <code>< img src="" ></code>
