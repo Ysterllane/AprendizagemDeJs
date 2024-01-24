@@ -7,3 +7,5 @@
 📝 listas
 
 * <code>< body ></code> não fica dentro do <code>< head ></code>. A palavra "head" significa cabeça, e "body" significa corpo. Logo, o corpo fica abaixo da cabeça.
+
+* Há a tag <code>heading</code> = <code>< h ></ h ></code>, o número ao lado designa o peso daquele título.
