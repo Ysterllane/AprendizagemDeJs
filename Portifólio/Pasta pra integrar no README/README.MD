@@ -16,4 +16,7 @@
 
 * Para exibir uma imagem devemos escrever seu endereço através da <b>propriedade</b> <code>src</code>. As propriedades ficam dentro dos sinais de maior e menor da tag. <code>< img src="" ></code>
 
-* <code>src</code> que vem de <b>source</b>, "fonte" em português = "endereço da imagem". Se os dois estiverem na mesma pasta basta adicionar seu endereço. Ex: src = "html.png" 
+* <code>src</code> que vem de <b>source</b>, "fonte" em português = "endereço da imagem". Se os dois estiverem na mesma pasta basta adicionar seu endereço. Ex: <code>src = "html.png"</code> 
+
+* A <b>propiedade</b> <code>alt=""</code> serve para acessibilidade, para pessoas que utilizam leitores de tela. É o nome que fica na imagem quando a mesma não consegue aparecer também. Code: <code>, img src = "html.png" alt="Imagem do HTML 5" > </code> 
+ 
