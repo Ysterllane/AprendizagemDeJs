@@ -1,5 +1,5 @@
 * A tag <code>< body ></code> é o corpo do documento onde estão todos os conteúdos visíveis, como: 
- cabeçalhos <br>
+⚙️ cabeçalhos <br>
 📌 parágrafos <br>
 🖼️ imagens <br>
 🔎 hiperlinks <br>
