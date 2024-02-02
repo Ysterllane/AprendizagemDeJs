@@ -1,7 +1,7 @@
 # Functions:
 ## Sumário:
-* Diferença de Funções
 * Lista de Exercícios:
+* Diferença de Funções
 
 ## Exercícios:
 1) Criar uma função que exibe "Olá, mundo!" no console.
