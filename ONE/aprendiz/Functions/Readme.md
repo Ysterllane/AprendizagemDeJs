@@ -3,6 +3,7 @@
 * Diferença de Funções
 * Lista de Exercícios:
 
+## Exercícios:
 1) Criar uma função que exibe "Olá, mundo!" no console.
 2) Criar uma função que recebe um nome como parâmetro e exibe "Olá, [nome]!" no console.
 3) Criar uma função que recebe um número como parâmetro e retorna o dobro desse número.
