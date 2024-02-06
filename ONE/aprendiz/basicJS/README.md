@@ -11,6 +11,7 @@
 * && and
 * || or 
 * Math.random ();
+* = == ===
 
 ## Explicação:
 
@@ -63,14 +64,20 @@ Com + :
 ```js
 alert('O número secreto era ' + numeroSecreto + ', mas você escolheu ' + chute);
 ```
+
+Atribuir valores:
+```js 
+= 
+```
+
 Comparar valores:
 ```js 
 == 
 ```
 
-Atribuir valores:
+Comparar valores e tipos de variáveis:
 ```js 
-= 
+=== 
 ```
 
 Enquanto chute N FOR IGUAL ao numeroSecreto:

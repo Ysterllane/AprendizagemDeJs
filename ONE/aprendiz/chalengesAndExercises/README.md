@@ -1,1 +1,3 @@
-# Sumario: + exercícios a finalizar~~
+# Sumario: exercícios finalizar~~
+
+* 1stChallenge.js: = --> ==
