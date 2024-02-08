@@ -14,27 +14,23 @@
 
 * Toda tag de fechamento possui uma barra <CODE>/</CODE> após o sinal <CODE><</CODE>
 
-* Tag: <code>< head ></code> : Meta informações sobre a página HTML, informações sobre o próprio documento. São metatags.
-  <br>
-  Partes que não vemos diretamente na página.
-
-* Não há espaço entre os sinais < >
-  
-<hr>
-
-<code><! DOCTYPE html ></code> declaração: esse doc é HTML5
-
-<code>< html ></code> Td dentro dessa tag é o doc HTML
-
-<code>< head ></code> meta informações
-
-<code>< title >Portifólio</ title ></code> Título da aba
-
-<code></ head ></code> Fechamento das metainformações 
-
-<code></ html ></code> fim do HTML dado pela / 
+* Tag: < head > : Meta informações sobre a página HTML, informações sobre o próprio documento. São metatags.
 
 <hr>
+
+## Não há espaço entre os sinais < >
+
+<b><! DOCTYPE html ></b> declaração: esse doc é HTML5
+
+<b>< html ></b> Td dentro dessa tag é o doc HTML
+
+<b>< head ></b> meta informações
+
+<b>< title >Portifólio</ title ></b> Título da aba
+
+<b></ head ></b> Fechamento das metainformações 
+
+<b></ html ></b> fim do HTML dado pela / 
 
 * A tag <code>< body ></code> é o corpo do documento onde estão todos os conteúdos visíveis, como: <br>
 ⚙️ cabeçalhos <br>
@@ -56,5 +52,4 @@
 
 * <code>src</code> vem de <b>source</b>, "fonte" em português = "endereço da imagem". Se os dois estiverem na mesma pasta basta adicionar o nome do arquivo. Ex: <code>src = "html.png"</code> 
 
-* A <b>propiedade</b> <code>alt=""</code> serve para acessibilidade, para pessoas que utilizam leitores de tela. É o nome que fica na imagem quando a mesma não consegue aparecer também. É muito importante dar nomes descritivos às imagens para alcançar essas pessosas <3
-<br> Code: <code>< img src = "html.png" alt="Imagem do HTML 5" > </code> 
+* A <b>propiedade</b> <code>alt=""</code> serve para acessibilidade, para pessoas que utilizam leitores de tela. É o nome que fica na imagem quando a mesma não consegue aparecer também. É muito importante dar nomes descritivos às imagens para alcançar essas pessosas <3 Code: <code>< img src = "html.png" alt="Imagem do HTML 5" > </code> 
