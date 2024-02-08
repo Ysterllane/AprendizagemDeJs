@@ -16,9 +16,9 @@
 
 * Tag: < head > : Meta informações sobre a página HTML, informações sobre o próprio documento. São metatags.
 
-<hr>
+* Não há espaço entre os sinais < >
 
-## Não há espaço entre os sinais < >
+<hr>
 
 <b><! DOCTYPE html ></b> declaração: esse doc é HTML5
 
