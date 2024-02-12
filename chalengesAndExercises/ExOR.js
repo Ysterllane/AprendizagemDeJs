@@ -1,3 +1,5 @@
+/* utilização do || (or) para comparação*/
+
 let temMaça = false;
 let temBanana = true;
 
