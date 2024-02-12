@@ -1,4 +1,4 @@
-# F I L E S :
+# F I L E :
 
  🔴 Aprendiz: explicações de como programar em js e atividades
  
