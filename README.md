@@ -12,6 +12,6 @@
 
 ## Estudar +
 
-* Functions
+* Functions: videoaulas + exercicios a partir do 11
 
 * Listas
